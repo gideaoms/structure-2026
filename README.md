@@ -1,0 +1,1 @@
+This is an example of how a good structure should look like (in my opinion). Javascript does not have `module` like other languages, so I implemented something similar using `_mod_` and `_init_` technique.
