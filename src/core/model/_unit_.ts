@@ -1,2 +1,2 @@
-export * from "./car.ts"
-export * from "./user.ts"
+export * from "./car.ts";
+export * from "./user.ts";
